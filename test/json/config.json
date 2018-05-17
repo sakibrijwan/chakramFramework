@@ -1,0 +1,9 @@
+{
+  "APP_SERVER": "rupshav21",
+  "PORT": "8080",
+  "APP_URL" : "http://rupshav21/bdsrestws",
+  "LOGIN_API": "/signin",
+  "LOGOUT_API": "/signout",
+  "EXPRESS_DELIVERY_API": "/expressDelivery",
+  "REGISTER_API":"/registerApp"
+}
