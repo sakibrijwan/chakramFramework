@@ -4,6 +4,10 @@
   "APP_URL" : "http://rupshav21/bdsrestws",
   "LOGIN_API": "/signin",
   "LOGOUT_API": "/signout",
+  "REGISTER_API":"/registerApp",
   "EXPRESS_DELIVERY_API": "/expressDelivery",
-  "REGISTER_API":"/registerApp"
+  "ADD_WORKSPACE_API":"/addWorkspace",
+  "ADD_PACKAGE_API":"/addPackage",
+  "ADD_USER_API":"/addUser"
+
 }

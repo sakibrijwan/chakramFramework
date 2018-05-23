@@ -13,9 +13,7 @@ module.exports={
                     "sessionId":sessionId,
                     'Content-Type': 'application/x-www-form-urlencoded'
                 },
-
                 json: true,
-
             })
         return logOutPromise
     }

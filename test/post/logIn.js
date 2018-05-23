@@ -11,14 +11,10 @@ module.exports={
             {
                 form: {
                     "username":username,
-                    "password":password,
-                    'Content-Type': 'application/x-www-form-urlencoded'
+                    "password":password
                 },
-
                 json: true,
-
             })
         return loginPromise
     }
-
 }

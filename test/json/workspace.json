@@ -1,0 +1,16 @@
+{
+  "createWorkspace": {
+    "workspaceName": "Workspace",
+    "description":"This is description of package",
+    "tags":"tags",
+    "file":"Test1.txt",
+    "hideActivity":"",
+    "autoDelDate":"",
+    "autoDelReminderDate":"",
+    "managers":"",
+    "collaborators":"",
+    "viewers":""
+
+  },
+  "numberOfWorkspaces": 2
+}

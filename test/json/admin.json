@@ -1,0 +1,23 @@
+{
+  "username":"admin",
+  "password":"admin",
+
+  "addUser": {
+    "emailAddress":"sakib11@nilavodev.com",
+    "firstName":"",
+    "lastName":"",
+    "displayAs":"sakib11@nilavodev.com",
+    "company":"",
+    "genPassword":"",
+    "password":"1234",
+    "forcePassReset":"",
+    "roles":"sender",
+    "inclusionList":"",
+    "exclusionList":"",
+    "userExpireDate":"",
+    "quota":"",
+    "enablePassExpire":"",
+    "sendConfirmationEmail":"",
+    "enableOutlook":""
+  }
+}
