@@ -1,0 +1,26 @@
+{
+  "editUser": {
+    "userId":"",
+    "firstName":"",
+    "lastName":"",
+    "displayName":"",
+    "company":"",
+    "status":"",
+    "recipientInclusionList":"",
+    "recipientExclusionList":"",
+    "roleRecipient":"",
+    "roleSender":"",
+    "roleLimitedSender":"",
+    "roleReport":"",
+    "anyAdminRole":"",
+    "roleCompliance":"",
+    "roleAdmin":"",
+    "signInLocked":"",
+    "outlookEnabled":"",
+    "passwordExpires":"",
+    "forcePasswordReset":"",
+    "expiryDateStr":"",
+    "quota":"",
+    "sessionId":""
+  }
+}

@@ -1,13 +1,16 @@
 {
-  "APP_SERVER": "rupshav21",
+  "APP_SERVER": "rupshav22",
   "PORT": "8080",
-  "APP_URL" : "http://rupshav21/bdsrestws",
+  "APP_URL" : "http://rupshav22/bdsrestws",
   "LOGIN_API": "/signin",
   "LOGOUT_API": "/signout",
   "REGISTER_API":"/registerApp",
   "EXPRESS_DELIVERY_API": "/expressDelivery",
   "ADD_WORKSPACE_API":"/addWorkspace",
   "ADD_PACKAGE_API":"/addPackage",
-  "ADD_USER_API":"/addUser"
+  "ADD_USER_API":"/addUser",
+  "GET_PACKAGE_NAME_API":"/getPackage",
+  "GET_USER_NAME_API":"/editUser",
+  "DELETE_USER_API":"/deleteUser"
 
 }

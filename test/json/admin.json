@@ -3,10 +3,10 @@
   "password":"admin",
 
   "addUser": {
-    "emailAddress":"sakib11@nilavodev.com",
+    "emailAddress":"sakib",
     "firstName":"",
     "lastName":"",
-    "displayAs":"sakib11@nilavodev.com",
+    "displayAs":"sakib",
     "company":"",
     "genPassword":"",
     "password":"1234",
@@ -19,5 +19,6 @@
     "enablePassExpire":"",
     "sendConfirmationEmail":"",
     "enableOutlook":""
-  }
+  },
+  "numberOfUsers":150
 }
